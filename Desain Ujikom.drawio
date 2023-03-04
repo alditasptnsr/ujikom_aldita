@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T13:53:23.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="wkJVs3Kmo_6QGqGfoKw1" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-04T13:54:27.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-gHF2WkXXzyl_uNSKrmk" version="21.0.2" type="github" pages="4">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="1173" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1385,7 +1385,7 @@
           <mxGeometry x="1280" y="330" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="s0H6PqdZonaIb8vOg8mE-26" value="pimpinan" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="180" width="180" height="240" as="geometry" />
+          <mxGeometry x="-180" y="515" width="180" height="240" as="geometry" />
         </mxCell>
         <mxCell id="s0H6PqdZonaIb8vOg8mE-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="s0H6PqdZonaIb8vOg8mE-26">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
