@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T07:48:39.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EepYtuVg_Fkd8OsIRhfF" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-04T07:56:30.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="oLax0Ybp7Rd54vzudx6m" version="21.0.2" type="github" pages="4">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="1173" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KMry1UVkNV3NLxAo7dZE" name="Relasi">
-    <mxGraphModel dx="1100" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -807,7 +807,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DTJOUUpP6bt2EaS6aO0Z-1" value="&lt;h1&gt;Relasi&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;relasi atau hubungan antara tabel yang satu dengan yang lain pada database&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="80" width="340" height="90" as="geometry" />
+          <mxGeometry x="920" y="80" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="e7GyMuhefaxwKpM5uq-D-1" value="&lt;h1&gt;PK (Primary Key)&lt;/h1&gt;&lt;p&gt;aturan yang berfungsi untuk membedakan antara baris satu dengan baris lain pada tabel dan bersifat unik atau berbeda setiap barisnya.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="e7GyMuhefaxwKpM5uq-D-2" value="&lt;h1&gt;FK (Foreign Key)&lt;/h1&gt;&lt;p&gt;atribut untuk melengkapi hubungan antara satu tabel menuju tabel induk. dapat menghubungkan ke bnyk tabel.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="330" width="340" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
