@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T16:50:23.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Do3DtYUdSzZgJCf5U2Qc" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-04T16:59:28.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8h71a9j6HqY8JyPr8jfm" version="21.0.2" type="github" pages="4">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="550" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,6 +224,24 @@
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-9" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Kardinalitas&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;menggambarkan jumlah entitas yang terkait dalam hubungan tersebut" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="501" y="1330" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AModNkbfM9cTa9lxwg_v-10" value="" style="endArrow=ERoneToMany;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1400" as="sourcePoint" />
+            <mxPoint x="750" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AModNkbfM9cTa9lxwg_v-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;one to many&lt;/b&gt;&lt;/span&gt;&lt;br&gt;entitas diperbolehkan berhubungan dengan banyak entitas" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="756" y="1330" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AModNkbfM9cTa9lxwg_v-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;one to many&lt;/b&gt;&lt;/span&gt;&lt;br&gt;entitas diperbolehkan berhubungan dengan satu entitas" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1330" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AModNkbfM9cTa9lxwg_v-13" value="" style="endArrow=ERone;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="1400" as="sourcePoint" />
+            <mxPoint x="980" y="1350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
