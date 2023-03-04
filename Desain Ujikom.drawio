@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T08:37:55.331Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="D5dnSbahK-UkXBsEpkiV" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-04T08:43:02.951Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NvnqS1xDd-rXnEybOfcl" version="21.0.2" type="github" pages="4">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="1173" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -844,6 +844,9 @@
         </mxCell>
         <mxCell id="0HCrK7vgLxZoD0pS_Z_5-1" value="&lt;h1&gt;id (auto increment)&lt;/h1&gt;&lt;p&gt;membuat angka unik yang dihasilkan secara otomatis dan berurut untuk setiap rekor / catatan baru yang dimasukkan / di input kedalam table database.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1280" y="200" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0HCrK7vgLxZoD0pS_Z_5-2" value="&lt;h1&gt;kolom (attribute)&lt;/h1&gt;&lt;p&gt;bagian dari tabel&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="330" width="340" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
