@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T13:28:57.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-uHJXdLOGTcQoohy_W-4" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-04T13:37:32.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ANdozPOuwgXPVVt9MX7O" version="21.0.2" type="github" pages="4">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="1173" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Jm9PwdUYORpdDVK6vjWI" name="DFD">
-    <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="587" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,6 +240,13 @@
         <mxCell id="LVSxcoO0-qX-cwGyIUrx-2" value="Administrator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="279" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aRg46CZS03gurwsT_-BC-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LVSxcoO0-qX-cwGyIUrx-3" target="LVSxcoO0-qX-cwGyIUrx-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LVSxcoO0-qX-cwGyIUrx-3" value="Konsumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -278,7 +285,7 @@
           <mxGeometry x="510" y="540" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LVSxcoO0-qX-cwGyIUrx-9" value="Informasi Data Laundry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="540" width="110" height="30" as="geometry" />
+          <mxGeometry x="180" y="533" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LVSxcoO0-qX-cwGyIUrx-11" value="Login, Logout" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="724" width="100" height="30" as="geometry" />
@@ -313,6 +320,9 @@
         </mxCell>
         <mxCell id="aRg46CZS03gurwsT_-BC-2" value="Informasi Data Laundry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="490" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRg46CZS03gurwsT_-BC-6" value="Informasi Data Konsumen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="204" y="575" width="162" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
