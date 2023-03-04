@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T04:13:48.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="rcWOOc3Pbf3p76Fd-S6v" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-04T04:15:06.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_wGOFB1lK18HwM8ceO1j" version="21.0.2" type="github" pages="4">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="d3qWESnHsiVO22d-TLKT" name="Use Case">
-    <mxGraphModel dx="2000" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1592" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,10 +42,10 @@
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-7" value="hapus data jenis layanan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="120" y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l0cyVBOqyjnwJJdQDCPu-9" value="tambah data petugas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
+        <mxCell id="l0cyVBOqyjnwJJdQDCPu-9" value="tambah data karyawan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="120" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l0cyVBOqyjnwJJdQDCPu-10" value="edit data &lt;br&gt;petugas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
+        <mxCell id="l0cyVBOqyjnwJJdQDCPu-10" value="edit data &lt;br&gt;karyawan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="120" y="268" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-12" value="tambah data jenis pembayaran" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
@@ -69,7 +69,7 @@
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-25" value="hapus data jenis pembayaran" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="107" y="666" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l0cyVBOqyjnwJJdQDCPu-27" value="hapus data &lt;br&gt;petugas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
+        <mxCell id="l0cyVBOqyjnwJJdQDCPu-27" value="hapus data &lt;br&gt;karyawan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="110" y="320" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-29" value="tambah data pelanggan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
@@ -84,7 +84,7 @@
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-34" value="mengelola data jenis layanan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="320" y="100" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l0cyVBOqyjnwJJdQDCPu-36" value="mengelola data petugas" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
+        <mxCell id="l0cyVBOqyjnwJJdQDCPu-36" value="mengelola data karyawan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="330" y="268" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-37" value="mengelola data pelanggan" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
