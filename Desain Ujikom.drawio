@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T01:06:44.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AbghzPHmBXuzBrCwxeuW" version="21.0.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-03-07T01:11:37.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="wZ1hFmXQp5rAFQb0SDCe" version="21.0.2" type="github" pages="5">
   <diagram name="page-1" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="839" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -626,7 +626,7 @@
         <mxCell id="l0cyVBOqyjnwJJdQDCPu-37" value="mengelola data konsumen" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="320" y="430" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l0cyVBOqyjnwJJdQDCPu-38" value="mengelola data jenis pembayaran" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
+        <mxCell id="l0cyVBOqyjnwJJdQDCPu-38" value="mengelola data jenis transaksi" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="l0cyVBOqyjnwJJdQDCPu-1" vertex="1">
           <mxGeometry x="330" y="620" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="llFTwuQZNTX0Enhr4afp-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;exitX=0.99;exitY=0.377;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.423;entryY=1.148;entryDx=0;entryDy=0;entryPerimeter=0;" parent="l0cyVBOqyjnwJJdQDCPu-1" source="l0cyVBOqyjnwJJdQDCPu-38" target="l0cyVBOqyjnwJJdQDCPu-23" edge="1">
@@ -1719,7 +1719,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ydfesp8PzqE2HJhYy9qn" name="Page-5">
-    <mxGraphModel dx="1678" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1199" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2008,9 +2008,6 @@
         <mxCell id="y4acY2DUltMuy3k0zmIt-79" value="Lihat Status Laundry" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="y4acY2DUltMuy3k0zmIt-1" vertex="1">
           <mxGeometry x="370" y="1070" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="y4acY2DUltMuy3k0zmIt-81" value="Mengelola Data Laporan Laundry" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="y4acY2DUltMuy3k0zmIt-1" vertex="1">
-          <mxGeometry x="521.25" y="180" width="122.5" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="Fg5Z31NXaLNtg6wI0gUI-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="y4acY2DUltMuy3k0zmIt-1" source="y4acY2DUltMuy3k0zmIt-79" target="y4acY2DUltMuy3k0zmIt-12" edge="1">
           <mxGeometry x="-0.0372" y="2" width="160" relative="1" as="geometry">
             <mxPoint x="480" y="1070" as="sourcePoint" />
@@ -2181,7 +2178,7 @@
         <mxCell id="PSlV0yW32S7hj3QEqkRd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PSlV0yW32S7hj3QEqkRd-15" target="y4acY2DUltMuy3k0zmIt-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PSlV0yW32S7hj3QEqkRd-15" value="karyawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PSlV0yW32S7hj3QEqkRd-15" value="konsumen" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="1058" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PSlV0yW32S7hj3QEqkRd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PSlV0yW32S7hj3QEqkRd-17">
@@ -2189,7 +2186,7 @@
             <mxPoint x="750" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PSlV0yW32S7hj3QEqkRd-17" value="karyawan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="PSlV0yW32S7hj3QEqkRd-17" value="pimpinan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="360" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
