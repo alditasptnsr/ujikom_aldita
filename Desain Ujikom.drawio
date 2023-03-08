@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T02:05:13.959Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="PT0VEDUefedCryQ-bxFS" version="21.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-08T02:09:01.160Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="PWOtRePq7MfVD1ylGaiY" version="21.0.2" type="github" pages="6">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
-    <mxGraphModel dx="1257" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,54 +200,54 @@
           <mxGeometry x="1266.5" y="319" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bKHVc2-G-2FqLCFQxhXC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="441" y="1160" width="74" height="40" as="geometry" />
+          <mxGeometry x="719.5" y="1047" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bKHVc2-G-2FqLCFQxhXC-2" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Entitas&lt;/span&gt;&lt;/h1&gt;objek berwujud nyata yang dapat dibedakan dengan objek lainnya" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="515" y="1153" width="190" height="120" as="geometry" />
+          <mxGeometry x="793.5" y="1040" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bKHVc2-G-2FqLCFQxhXC-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Entity Relationship Diagram&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="523.5" y="90" width="350" height="30" as="geometry" />
+          <mxGeometry x="651.5" y="129" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ERD&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;bentuk diagram yang menjelaskan hubungan antar objek-objek data yang mempunyai hubungan antar relasiny&lt;/span&gt;&lt;span style=&quot;font-size: 12px; font-weight: normal;&quot;&gt;a.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1160" width="265" height="140" as="geometry" />
+          <mxGeometry x="438.5" y="1047" width="265" height="140" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-2" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="725" y="1160" width="70" height="40" as="geometry" />
+          <mxGeometry x="1003.5" y="1047" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-3" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Atribut (field)&lt;br&gt;&lt;/b&gt;&lt;/span&gt;gambaran karakteristik dari sebuah entitas atau himpunan entitas.&lt;br&gt;atribut key = atribut yang unik dan berbeda.&lt;br&gt;sub atribut =&amp;nbsp;sub atribut yang memiliki arti tertentu" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="797" y="1153" width="190" height="120" as="geometry" />
+          <mxGeometry x="1075.5" y="1040" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="1390" as="sourcePoint" />
-            <mxPoint x="490" y="1340" as="targetPoint" />
+            <mxPoint x="718.5" y="1277" as="sourcePoint" />
+            <mxPoint x="768.5" y="1227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-6" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Relasi&lt;/span&gt;&lt;/h1&gt;koneksi di antara sejumlah entitas yang berasal dari himpunan entitas berbeda" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1330" width="190" height="120" as="geometry" />
+          <mxGeometry x="498.5" y="1217" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1330" width="50" height="50" as="geometry" />
+          <mxGeometry x="438.5" y="1217" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-9" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Kardinalitas&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;menggambarkan jumlah entitas yang terkait dalam hubungan tersebut" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="501" y="1330" width="190" height="120" as="geometry" />
+          <mxGeometry x="779.5" y="1217" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-10" value="" style="endArrow=ERoneToMany;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="1400" as="sourcePoint" />
-            <mxPoint x="750" y="1350" as="targetPoint" />
+            <mxPoint x="978.5" y="1287" as="sourcePoint" />
+            <mxPoint x="1028.5" y="1237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-11" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;one to many&lt;/b&gt;&lt;/span&gt;&lt;br&gt;entitas diperbolehkan berhubungan dengan banyak entitas" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="756" y="1330" width="190" height="120" as="geometry" />
+          <mxGeometry x="1034.5" y="1217" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-12" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;one to many&lt;/b&gt;&lt;/span&gt;&lt;br&gt;entitas diperbolehkan berhubungan dengan satu entitas" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1330" width="190" height="120" as="geometry" />
+          <mxGeometry x="1258.5" y="1217" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AModNkbfM9cTa9lxwg_v-13" value="" style="endArrow=ERone;html=1;rounded=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="930" y="1400" as="sourcePoint" />
-            <mxPoint x="980" y="1350" as="targetPoint" />
+            <mxPoint x="1208.5" y="1287" as="sourcePoint" />
+            <mxPoint x="1258.5" y="1237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vOMqx_o4yKJpexQ2enhC-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;kode_konsumen&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
