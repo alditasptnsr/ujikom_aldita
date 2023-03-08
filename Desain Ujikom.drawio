@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T02:49:41.512Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="yYPlddhJgsRFBHX6Xhj4" version="21.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-08T03:08:28.096Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36" etag="jy7NkzNIDNhaTvoAVRD0" version="21.0.2" type="github" pages="6">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="1467" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1001,7 +1001,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KMry1UVkNV3NLxAo7dZE" name="RELASI">
-    <mxGraphModel dx="2084" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3027" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1626,46 +1626,46 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DTJOUUpP6bt2EaS6aO0Z-1" value="&lt;h1&gt;Relasi&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;relasi atau hubungan antara tabel yang satu dengan yang lain pada database&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="84" width="340" height="90" as="geometry" />
+          <mxGeometry x="830" y="159" width="340" height="90" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-1" value="&lt;h1&gt;PK (Primary Key)&lt;/h1&gt;&lt;p&gt;aturan yang berfungsi untuk membedakan antara baris satu dengan baris lain pada tabel dan bersifat unik atau berbeda setiap barisnya.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="204" width="340" height="130" as="geometry" />
+          <mxGeometry x="830" y="279" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-2" value="&lt;h1&gt;FK (Foreign Key)&lt;/h1&gt;&lt;p&gt;atribut untuk melengkapi hubungan antara satu tabel menuju tabel induk. dapat menghubungkan ke bnyk tabel.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="334" width="340" height="130" as="geometry" />
+          <mxGeometry x="830" y="409" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-3" value="&lt;h1&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Database&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;font face=&quot;arial, sans-serif&quot; color=&quot;#202124&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400; background-color: rgb(255, 255, 255);&quot;&gt;kumpulan data yang dapat diakses secara elektronik dari sebuah sistem.&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="84" width="340" height="110" as="geometry" />
+          <mxGeometry x="1190" y="159" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-4" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int (integer)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;data type berbentuk bilangan bulat atau numerik yang umumnya digunakan untuk menyimpan angka tanpa komponen pecahan&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="524" width="340" height="130" as="geometry" />
+          <mxGeometry x="830" y="599" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-5" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Tipe Data Numerik&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="489" width="220" height="30" as="geometry" />
+          <mxGeometry x="820" y="564" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-6" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;bigint&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;b style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;untuk digunakan ketika nilai bilangan bulat mungkin melebihi rentang yang didukung oleh jenis data int&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="524" width="340" height="130" as="geometry" />
+          <mxGeometry x="1230" y="599" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-8" value="&lt;h1&gt;var (varchar&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&amp;nbsp;&lt;span style=&quot;font-weight: bold; color: rgb(95, 99, 104); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;tipe data&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;yang berupa karakter atau huruf&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="725" width="340" height="80" as="geometry" />
+          <mxGeometry x="830" y="800" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Tipe Data String&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="695" width="220" height="30" as="geometry" />
+          <mxGeometry x="810" y="770" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-10" value="&lt;h1&gt;date (date&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&amp;nbsp;Berisi tahun, bulan, dan tanggal" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="728" width="340" height="80" as="geometry" />
+          <mxGeometry x="1230" y="803" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Tipe Data Date&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1430" y="694" width="220" height="30" as="geometry" />
+          <mxGeometry x="1200" y="769" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="e7GyMuhefaxwKpM5uq-D-12" value="&lt;h1&gt;enum (enum&lt;span style=&quot;background-color: initial;&quot;&gt;)&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&amp;nbsp;&lt;span style=&quot;font-weight: bold; color: rgb(95, 99, 104); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;tipe data&lt;/span&gt;&lt;span style=&quot;color: rgb(77, 81, 86); font-family: arial, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;yang khusus untuk kolom dimana nilai datanya sudah kita tentukan sebelumnya&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="844" width="340" height="90" as="geometry" />
+          <mxGeometry x="830" y="919" width="340" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0HCrK7vgLxZoD0pS_Z_5-1" value="&lt;h1&gt;id (auto increment)&lt;/h1&gt;&lt;p&gt;membuat angka unik yang dihasilkan secara otomatis dan berurut untuk setiap rekor / catatan baru yang dimasukkan / di input kedalam table database.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="204" width="340" height="110" as="geometry" />
+          <mxGeometry x="1190" y="279" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0HCrK7vgLxZoD0pS_Z_5-2" value="&lt;h1&gt;kolom (attribute)&lt;/h1&gt;&lt;p&gt;bagian dari tabel&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="334" width="340" height="130" as="geometry" />
+          <mxGeometry x="1190" y="409" width="340" height="130" as="geometry" />
         </mxCell>
         <mxCell id="s0H6PqdZonaIb8vOg8mE-26" value="pimpinan" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="515" width="180" height="240" as="geometry" />
