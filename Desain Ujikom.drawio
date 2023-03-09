@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T02:01:34.159Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MTfWY16ps_c2c2K10M14" version="21.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-09T02:44:00.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="8a8s5DHBVAndF93i7AKi" version="21.0.4" type="github" pages="6">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
     <mxGraphModel dx="880" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
             <mxPoint x="602.9599999999999" y="266" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LVSxcoO0-qX-cwGyIUrx-1" value="Sisitem Informasi Aplikasi Laundry" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="LVSxcoO0-qX-cwGyIUrx-1" value="Sistem Informasi Aplikasi Laundry" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="349" y="392" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ih2cscQuxJulBZhihAOq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.271;entryY=0.05;entryDx=0;entryDy=0;exitX=1.019;exitY=0.432;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" target="LVSxcoO0-qX-cwGyIUrx-1" edge="1">
