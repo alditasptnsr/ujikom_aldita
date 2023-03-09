@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T00:33:45.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="5xeaumG8I2QYxLH4oVPr" version="21.0.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-03-09T00:44:29.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="U18IcXgotrAoebbgfmoj" version="21.0.2" type="github" pages="6">
   <diagram name="ERD" id="htPlezA3IeBxIRGkQEzf">
-    <mxGraphModel dx="1035" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,7 +302,7 @@
         <mxCell id="vOMqx_o4yKJpexQ2enhC-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PAKET&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1012.5" y="840" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vOMqx_o4yKJpexQ2enhC-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;STATUS PEMBAYARAN&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="vOMqx_o4yKJpexQ2enhC-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;STATUS&lt;br&gt;Pesanan&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="715.5" y="840" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vOMqx_o4yKJpexQ2enhC-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="vOMqx_o4yKJpexQ2enhC-24" target="vOMqx_o4yKJpexQ2enhC-15" edge="1">
